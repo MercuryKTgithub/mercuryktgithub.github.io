@@ -1,2 +1,2 @@
 #### Welcome to My Homepage 
->> mercuryktgithub.github.io <<
+> mercuryktgithub.github.io 
